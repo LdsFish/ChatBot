@@ -1,0 +1,21 @@
+{
+  "name": "ChatBot",
+  "version": "0.0.1",
+  "description": "Eliza改",
+  "main": "lib/ChatBot.js",
+  "dependencies": {
+    "colors": "^1.1.2"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LdsFish/TeamFind.git"
+  },
+  "license": "MIT"
+}
